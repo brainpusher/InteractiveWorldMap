@@ -1,0 +1,50 @@
+{
+	"countries":
+	[
+		{
+			"latitude": 46,
+			"longitude": 2,
+			"name": "Франция",
+			"capital": "Paris",
+			"area": 643801,
+			"gdp": 2.583,
+			"population": 66991000
+		},
+		{
+			"latitude": 60,
+			"longitude": 100,
+			"name": "Россия",
+			"capital": "Moscow",
+			"area": 17100000,
+			"gdp": 1.578,
+			"population": 146745098
+		},
+		{
+			"latitude": 54,
+			"longitude": -2,
+			"name": "Великобритания",
+			"capital": "London",
+			"area": 242495,
+			"gdp": 2.622,
+			"population": 63181775
+		},
+		{
+			"latitude": -25.274,
+			"longitude": 133.775,
+			"name": "Австралия",
+			"capital": "Canberra",
+			"area": 7692000,
+			"gdp": 1.323,
+			"population": 25513061
+		},
+		{
+			"latitude": -10,
+			"longitude": -55,
+			"name": "Бразилия",
+			"capital": "Brazilia",
+			"area": 8511000,
+			"gdp": 2.056,
+			"population": 206081432
+		}
+	]
+}
